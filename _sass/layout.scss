@@ -1,9 +1,6 @@
 .imageWrapper {					// Sets the background in the header area
 	height: 714px;
-	background-color: $banner-color;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top;
+	background-color: rgba($banner-color, $banner-transparency);
 }
 
 .headerBackground {
