@@ -36,14 +36,14 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Inventory
-    description                           : Store all your fabrics in one place. View them on a single page.
+    description                           : Store all your fabrics in one place.
     fontawesome_icon_name                 : warehouse
   
-  - title                                 : Matching
+  - title                                 : Match
     description                           : Match your fabics to find the perfect fit for your next project.
     fontawesome_icon_name                 : swatchbook
 
-  - title                                 : Store
+  - title                                 : Shop
     description                           : Select from thousands of fabrics and find the perfect match with your own fabrics.
     fontawesome_icon_name                 : shopping-cart
 
