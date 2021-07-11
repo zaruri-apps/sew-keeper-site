@@ -35,16 +35,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Inventory
-    description                           : Store all your fabrics in one place.
+  - title                                 : 1. Organize
+    description                           : Keep all your fabrics in one place. You can add, view, and search your fabrics.
     fontawesome_icon_name                 : warehouse
   
-  - title                                 : Match
-    description                           : Match your fabics to find the perfect fit for your next project.
+  - title                                 : 2. Match
+    description                           : View your fabics side by side to find the perfect match for your next project.
     fontawesome_icon_name                 : swatchbook
 
-  - title                                 : Shop
-    description                           : Select from thousands of fabrics and find the perfect match with your own fabrics.
+  - title                                 : 3. Shop
+    description                           : Select from thousands of fabrics from the store and match them with your own fabrics.
     fontawesome_icon_name                 : shopping-cart
 
 
